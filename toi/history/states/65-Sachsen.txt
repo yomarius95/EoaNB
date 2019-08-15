@@ -31,7 +31,11 @@ state={
 			6441 1 
 		}
 		add_core_of = SAX
-
+		1870.7.20 = {
+		    owner = PRS
+			add_core_of = PRS 
+			remove_core_of = SAX  
+		}
 	}
 
 	provinces={

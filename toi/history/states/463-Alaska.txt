@@ -19,7 +19,10 @@ state={
 		victory_points = {
 			13091 3 
 		}
-
+		1870.7.20 = {
+		    owner = USA    
+			add_core_of = USA 		
+		}
 	}
 
 	provinces={

@@ -23,21 +23,9 @@ guiTypes = {
 
 		iconType = {
 			name = "icon"
-			spriteType = "GFX_select_date_1936"
+			spriteType = "GFX_select_date_1857"
 			position = { x = 27 y = 28 }
 			allwaystransparent = yes
-		}
-
-		instantTextBoxType = {
-			name = "date"
-			position = { x = 22 y = 147 }
-			font = "hoi_20b"
-			borderSize = {x = 0 y = 0}
-			text = "FE_BOOKMARK_DATE"
-			maxWidth = 185
-			maxHeight = 20
-			fixedsize = yes	
-			format = centre
 		}
 	}
 	
@@ -528,8 +516,18 @@ guiTypes = {
 		
 		containerWindowType = {
 			name ="bookmarks"
-			position = { x = 43 y = 55 }
-			size = { width = -10 height = 120}
+			position = { x = 20 y = 45 }
+			size = { width = -20 height = 260}
+			clipping = yes
+			horizontalScrollbar = "bottom_horizontal_slider"
+			margin = { top = 3 bottom = 2}
+			background = {
+				name = "Background"		
+				spriteType ="GFX_select_date_bg_scroll_bac"
+				position = { x = -12 y = -4 }
+				size = { width = -20 height = 210}
+				clipping = yes
+			}
 			
 			gridboxType = {
 				name ="bookmarks_grid"
@@ -544,7 +542,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "history_title"
-			position = { x = 110 y = 275 }
+			position = { x = 110 y = 310 }
 			font = "hoi_20b"
 			borderSize = {x = 0 y = 0}
 			text = "BM_HISTORY_TITLE"
@@ -555,7 +553,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "bookmark_title"
-			position = { x = 25 y = 305 }
+			position = { x = 25 y = 337 }
 			font = "hoi4_typewriter22"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 340
@@ -565,7 +563,7 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "bookmark_desc"
-			position = { x = 25 y = 330 }
+			position = { x = 25 y = 357 }
 			font = "hoi4_typewriter16"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 540
@@ -575,7 +573,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "back_button"
-			position = { x = 30 y = -57 }
+			position = { x = 30 y = -20 }
 			quadTextureSprite ="GFX_button_221x34"	
 			buttonText = "BACK"
 			buttonFont = "hoi_18mbs"
@@ -587,7 +585,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "select_button"
-			position = { x = -252 y = -57 }
+			position = { x = -252 y = -20 }
 			quadTextureSprite ="GFX_button_221x34"
 			buttonText = "FE_SELECT_SCENARIO"
 			buttonFont = "hoi_18mbs"
@@ -617,6 +615,30 @@ guiTypes = {
 			maxHeight = 30	
 			format = centre
 		}
+		
+		# instantTextBoxType = {
+			# name = "major_countries"
+			# position = { x = 100 y = 0 }
+			# textureFile = ""
+			# font = "hoi_24header"
+			# borderSize = {x = 0 y = 0}
+			# text = "IC_MAJOR_COUNTRIES"
+			# maxWidth = 340
+			# maxHeight = 30	
+			# format = left
+		# }
+		
+		# instantTextBoxType = {
+			# name = "minor_countries"
+			# position = { x = 100 y = -20 }
+			# textureFile = ""
+			# font = "hoi_24header"
+			# borderSize = {x = 0 y = 0}
+			# text = "IC_MINOR_COUNTRIES"
+			# maxWidth = 340
+			# maxHeight = 30	
+			# format = left
+		# }
 		
 		background = {
 			name = "single_player_country_bg"

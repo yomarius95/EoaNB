@@ -22,6 +22,11 @@ state={
 			3397 1
 		}
 		add_core_of = HES
+		1870.7.20 = {
+		    owner = PRS
+			add_core_of = PRS 
+			remove_core_of = HES  
+		}
 	}
 	
 	resources = {

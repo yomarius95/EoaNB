@@ -50,6 +50,10 @@ state={
 			set_province_controller = 12012	
 			set_province_controller = 12426					
 		}
+		1870.7.20 = {
+		    owner = CHI  
+			remove_core_of = NIE 
+		}
 	}
 
 	provinces={

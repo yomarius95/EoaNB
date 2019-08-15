@@ -50,7 +50,10 @@ state= {
 			set_province_controller = 12407
 			set_province_controller = 12436				
 		}		
-
+		1870.7.20 = {
+		    owner = CHI 
+            remove_core_of = PTH 			
+		}
 	}
 	provinces={
 		1023 1469 1597 1625 4028 4077 4085 4134 4152 4628 4656 7095 7128 7168 7210 7650 10039 10121 10404 10431 10459 12407 12436

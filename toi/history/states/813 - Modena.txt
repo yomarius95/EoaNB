@@ -15,6 +15,11 @@ state=
 		}
 		owner = MOD
 		add_core_of = MOD
+		1870.7.20 = {
+		    owner = PIE
+			add_core_of = PIE 
+			remove_core_of = MOD 
+		}
 		buildings = {
 			infrastructure = 2
 		}

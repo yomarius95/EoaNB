@@ -20,6 +20,9 @@ state= {
 		victory_points = {
 			7222 1
 		}
+		1870.7.20 = {
+			remove_core_of = TAI 
+		}
 	}
 
 	provinces={

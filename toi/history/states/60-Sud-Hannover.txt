@@ -25,7 +25,11 @@ state={
 		victory_points = {
 			482 1 
 		}		add_core_of = THU
-
+		1870.7.20 = {
+		    owner = PRS
+			add_core_of = PRS 
+			remove_core_of = THU  
+		}
 	}
 
 	provinces={

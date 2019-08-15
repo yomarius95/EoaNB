@@ -12,6 +12,11 @@ state={
 
 		}
 		add_core_of = GEO
+		1870.7.20 = {
+		    owner = RUS 
+			add_core_of = RUS  
+			remove_core_of = GEO 
+		}
 	}
 
 	provinces={

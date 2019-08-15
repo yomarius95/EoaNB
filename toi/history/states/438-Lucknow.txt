@@ -19,6 +19,10 @@ state={
 		}
 		add_core_of = SRS
 		add_core_of = RAJ
+		1870.7.20 = {
+		    owner = RAJ
+            remove_core_of = SRS 			
+		}
 	}
 
 	provinces={

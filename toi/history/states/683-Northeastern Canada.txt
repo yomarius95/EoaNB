@@ -15,7 +15,11 @@ state={
 
 		}
 		add_core_of = HBC
-
+		1870.7.20 = {
+		    owner = CAN    
+			add_core_of = CAN 
+            remove_core_of = HBC 			
+		}
 	}
 
 	provinces={

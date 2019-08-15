@@ -14,6 +14,12 @@ state={
 		victory_points = {
 			7821 1
 		}
+		1870.7.20 = {
+		    owner = USA    
+			add_core_of = USA 
+            remove_claim_by = USA   
+            remove_core_of = NAV 			
+		}
 	}
 	manpower=8620
 	state_category = rural

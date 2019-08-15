@@ -33,6 +33,10 @@ state=
 		victory_points = {
 			10501 3
 		}
+		1870.7.20 = {
+		    owner = CHI  
+			remove_core_of = TAI 
+		}
 	}
 	
 	resources = {

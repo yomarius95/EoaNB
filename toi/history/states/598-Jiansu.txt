@@ -17,6 +17,9 @@ state={
 		NIE = {
 			set_province_controller = 7025		
 		}
+		1870.7.20 = {
+		    owner = CHI  
+		}
 	}
 
 	provinces={

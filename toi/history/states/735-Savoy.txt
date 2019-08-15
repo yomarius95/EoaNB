@@ -15,6 +15,11 @@ state={
 			778 1 
 		}
 		add_claim_by = FRA
+		1870.7.20 = {
+		    owner = FRA 
+			add_core_of = FRA 
+			remove_core_of = PIE
+		}
 	}
 
 	provinces={

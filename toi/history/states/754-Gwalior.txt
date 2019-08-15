@@ -19,6 +19,9 @@ state={
 		victory_points = {
 			1949 1
 		}
+		1870.7.20 = {
+		    owner = RAJ		
+		}
 	}
 	manpower=76924
 	buildings_max_level_factor=1.000

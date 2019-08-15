@@ -23,6 +23,11 @@ state=
 			6706 3
 		}
 		add_core_of = MOL
+		1870.7.20 = {
+		    owner = ROM 
+			add_core_of = ROM 
+            remove_core_of = MOL   			
+		}
 	}
 	
 	resources = {

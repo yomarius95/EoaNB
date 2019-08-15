@@ -17,6 +17,12 @@ state={
 		victory_points = {
 			10645 1
 		}
+		1870.7.20 = {
+		    owner = USA    
+			add_core_of = USA 
+            remove_claim_by = USA   
+            remove_core_of = NAV 			
+		}
 	}
 
 	provinces={

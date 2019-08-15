@@ -21,7 +21,10 @@ state={
 			add_core_of = CSA
 
 		}
-
+		1870.7.20 = {
+		    owner = USA  
+            remove_core_of = CSA   			
+		}
 	}
 
 	provinces={

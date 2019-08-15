@@ -19,6 +19,9 @@ state={
 		victory_points = {
 			10905 5
 		}
+		1870.7.20 = {
+		    owner = RAJ			
+		}
 	}
 
 	provinces={

@@ -12,6 +12,11 @@ state= {
 			arms_factory = 1
 		}
 		add_core_of = MCK
+		1870.7.20 = {
+		    owner = PRS
+			add_core_of = PRS 
+			remove_core_of = MCK 
+		}
 	}
 
 	provinces= {

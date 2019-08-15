@@ -17,6 +17,10 @@ state={
 		}
 		add_core_of = SEM
 		add_core_of = USA
+		1870.7.20 = {
+		    owner = USA  
+            remove_core_of = SEM   			
+		}
 	}
 
 	provinces={

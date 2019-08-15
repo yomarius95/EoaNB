@@ -10,6 +10,10 @@ state={
 		add_core_of = MOL
 		add_core_of = ROM
 		add_core_of = RUS
+		1870.7.20 = {
+		    owner = ROM 
+            remove_core_of = MOL   			
+		}
 	}
 	
 	manpower=46205
