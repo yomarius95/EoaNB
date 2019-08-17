@@ -14,6 +14,12 @@ state={
 		owner = SAG
 		add_core_of = TSH
 		add_core_of = SAG
+				1870.7.20 = {
+		    owner = JAP
+			add_core_of = JAP
+			remove_core_of = TSH
+			remove_core_of = SAG
+			}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

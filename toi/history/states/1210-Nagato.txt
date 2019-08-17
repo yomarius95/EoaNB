@@ -9,6 +9,12 @@ state={
 		owner = CHO
 		add_core_of = TSH
 		add_core_of = CHO
+				1870.7.20 = {
+		    owner = JAP
+			add_core_of = JAP
+			remove_core_of = TSH
+			remove_core_of = CHO
+			}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

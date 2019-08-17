@@ -11,6 +11,11 @@ state = {
 	history = {
 		owner = TSH
 		add_core_of = TSH
+		1870.7.20 = {
+		    owner = JAP
+			add_core_of = JAP
+			remove_core_of = TSH
+		}
 		buildings = {
 			infrastructure = 3
 		}

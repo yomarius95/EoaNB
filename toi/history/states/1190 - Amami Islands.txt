@@ -6,11 +6,17 @@ state={
 	state_category = small_island
 
 	history={
-		owner = TSH
 		victory_points = {
 			7115 1
 		}
+		owner = TSH
 		add_core_of = TSH
+				1870.7.20 = {
+		    owner = JAP
+			add_core_of = JAP
+			remove_core_of = TSH
+			}
+		
 	}
 
 	provinces={

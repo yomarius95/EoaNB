@@ -80,3 +80,47 @@ set_popularities = {
   # POLITICAL LEADERS
 
 }
+
+1870.7.20 = {
+  capital = 1153
+  oob = "MNC_1870"
+    if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "AUS_1870_naval_mtg"
+	else = {
+		set_naval_oob = "AUS_1870_naval_legacy"
+	}
+}
+
+        set_convoys = 0
+		
+		set_research_slots = 1
+		
+		add_ideas = { 
+    #POLITICS 
+		  
+    hos_is_leader
+    victorian_era
+	law_victorian_army
+    agrarian
+    no_heir
+    absolute_monarchy
+
+    civilian_economy
+    limited_exports
+    two_percent
+    normal_taxes
+	cl_legal
+
+    stagnation_growth
+    border_control
+	volunteer_only
+    limited_equality
+    absolutism
+
+    no_constitution
+    no_elections
+
+    privileged_education
+    state_religion
+	}

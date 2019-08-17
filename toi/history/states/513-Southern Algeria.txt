@@ -18,6 +18,11 @@ state={
 		
 		owner = BAB
 		add_core_of = BAB
+		1870.7.20 = {
+		    owner = ALG
+			add_core_of = ALG 
+			remove_core_of = BAB
+		}
 	}
 	
 	resources = {

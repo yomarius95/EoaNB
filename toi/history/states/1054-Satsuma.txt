@@ -8,6 +8,12 @@ state={
 		owner = SAT
 		add_core_of = TSH
 		add_core_of = SAT
+			1870.7.20 = {
+		    owner = JAP
+			add_core_of = JAP
+			remove_core_of = TSH
+			remove_core_of = SAT
+			}
 		buildings = {
 			infrastructure = 5
 			cotton_farm = 1

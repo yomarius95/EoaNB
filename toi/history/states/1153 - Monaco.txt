@@ -13,6 +13,11 @@ state=
 		owner = PIE
 		add_core_of = PIE
 		add_core_of = MNC
+        1870.7.20 = {
+		    owner = MNC
+			add_core_of = MNC
+			remove_core_of = PIE
+			}
 		victory_points = {
 			13719 3 
 		}
