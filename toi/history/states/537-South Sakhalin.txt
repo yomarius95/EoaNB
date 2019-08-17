@@ -15,7 +15,6 @@ state= {
 		add_claim_by = CHI
 		1870.7.20 = {
 		    owner = JAP
-			remove_core_of = TSH
 			remove_claim_of = CHI
 			}
 		buildings = {

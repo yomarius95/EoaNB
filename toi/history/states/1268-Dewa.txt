@@ -12,12 +12,10 @@ state={
 	history={
 		owner = TSH
 		add_core_of = TSH
-		add_core_of = NOA
 		1870.7.20 = {
 		    owner = JAP
 			add_core_of = JAP
 			remove_core_of = TSH
-			remove_core_of = NOA
 		}
 		buildings = {
 			arms_factory = 1

@@ -8,12 +8,8 @@ state={
 
 	history={
 		owner = TSH
-		add_core_of = TSH
-		add_core_of = EZO
 		1870.7.20 = {
 		    owner = JAP
-			remove_core_of = TSH
-			remove_core_of = EZO
 		}
 		buildings = {
 			infrastructure = 2
