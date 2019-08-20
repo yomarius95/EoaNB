@@ -53,10 +53,10 @@ set_technology = {
 
     oral_tradition
     state_religion
-	religion_mahayana
          #NATIONAL SPIRITS
     
   }
+
     #Rivals 
     set_variable = { rival_country = FRA.id }
 	#Most Favoured Country  
