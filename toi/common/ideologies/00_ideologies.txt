@@ -166,7 +166,7 @@ ideologies = {
 
 	}
 
-	#classical socialism, syndicalism
+	#classical socialism, syndicalism, kongsi
 	collectivist_socialism = {
 
 		types = {

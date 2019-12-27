@@ -67,6 +67,14 @@ opinion_modifiers = {
 		value = 75
 	}
 	
+	AFR_netherland_colony = {
+		value = 75
+	}
+	
+	AFR_chinese_colony = {
+		value = 75
+	}
+	
 	AFR_foreign_colony = {
 		value = -75
 	}

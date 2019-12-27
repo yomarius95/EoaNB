@@ -48,6 +48,9 @@
     set_variable = { rival_country = FRA.id }
 	#Most Favoured Country  
     set_variable = { most_favoured_country = BEL.id }  
+	
+  #Diplomacy
+	add_opinion_modifier = { target = ACE modifier = AFR_british_colony }
 
   add_ideas = { 
           #POLITICS

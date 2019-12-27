@@ -166,7 +166,7 @@ focus_tree = {
 			focus = afr_colony_generic_equal_trade
 		}
 		completion_reward = {
-		298 = {
+		capital_scope = {
 			add_manpower = 15000
 		}
 		}
